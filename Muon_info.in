@@ -23,7 +23,7 @@ MotherID 23.0
 
 //----RECO CUTS----//
 
-EtaCut 2.5
+EtaCut 2.1
 PtCut 10.0 9999.9
 
 DoDiscrByTightID 1
@@ -48,7 +48,7 @@ MetMtCut 0. 100.
 
 //----RECO CUTS----//
 
-EtaCut 2.5
+EtaCut 2.1
 PtCut 10.0 9999.9
 
 DoDiscrByTightID 1
