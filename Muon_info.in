@@ -26,8 +26,9 @@ MotherID 23.0
 EtaCut 2.1
 PtCut 10.0 9999.9
 
-DoDiscrByTightID 1
+DoDiscrByTightID 0
 DoDiscrBySoftID 0
+DoDiscrByMediumID 1
 
 DoDiscrByIsolation 1
 IsoSumPtCutValue 0.0 0.25
@@ -51,8 +52,9 @@ MetMtCut 0. 100.
 EtaCut 2.1
 PtCut 10.0 9999.9
 
-DoDiscrByTightID 1
+DoDiscrByTightID 0
 DoDiscrBySoftID 0
+DoDiscrByMediumID 1
 
 DoDiscrByIsolation 1
 IsoSumPtCutValue 0.0 0.25
@@ -65,4 +67,4 @@ DiscrByMetDphi 0
 MetDphiCut 1.30 3.15
 
 DiscrByMetMt 0
-MetMtCut 10. 100.
+MetMtCut 0. 100.

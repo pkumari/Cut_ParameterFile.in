@@ -1,6 +1,6 @@
 FillRun 1
 Events        2   0.    2.
-NVertices   100   0.  100.
+NVertices    100   0.  100.
 
 //------------------------------------------------//
 
@@ -40,7 +40,7 @@ Tau1NumSignalTracks      10   0       10
 Tau1SeedTrackPt        2000   0.    5000.
 Tau1Charge               10  -5.       5.
 Tau1MetMt               100   0.     500.
-Tau1MetDeltaPhi1       72    0     +3.15
+Tau1MetDphi             72   -3.15     +3.15
 
 FillTau2 1
 
@@ -54,7 +54,9 @@ Tau2Phi                  36  -3.15    +3.15
 Tau2NumSignalTracks      10   0       10
 Tau2SeedTrackPt        2000   0.    5000.
 Tau2Charge               10  -5.       5.
-Tau2MetMt             100   0.     500.
+Tau2MetMt               100   0.     500.
+Tau2MetDphi             72   -3.15     +3.15
+
 //------------------------------------------------//
 
 FillElectron1 1
